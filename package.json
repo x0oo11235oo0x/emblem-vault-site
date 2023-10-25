@@ -45,7 +45,7 @@
     "bip39": "^3.0.4",
     "bitcoinjs-lib": "^5.2.0",
     "bootstrap": "^4.6.0",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "doka": "file:local_modules/doka",
     "emotion-theming": "^10.0.27",
     "framer-motion": "^3.10.3",
